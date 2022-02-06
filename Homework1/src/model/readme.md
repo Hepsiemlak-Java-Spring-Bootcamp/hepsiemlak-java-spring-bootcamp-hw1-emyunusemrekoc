@@ -14,3 +14,5 @@ Maindeki methodları ise parametrik oluşturmaya çalıştım, böylelikle daha 
 ![tum_mesajlar](https://user-images.githubusercontent.com/81576354/152664139-b6c7b22f-39e5-4f37-8541-1435404b115a.png)
 ![maile_gore](https://user-images.githubusercontent.com/81576354/152664141-d219a08c-8bbc-42fb-b477-a03f697b0e48.png)
 
+
+![Package model](https://user-images.githubusercontent.com/81576354/152664189-5ad38084-c9c4-4641-92d6-f268a90951c5.png)
